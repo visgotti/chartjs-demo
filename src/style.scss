@@ -171,9 +171,6 @@ input[type=radio] {
 }
 
 @media screen and (max-width: 660px) {
-  #root {
-    background-color: purple;
-  }
   .charts {
     transform: translateY(20%);
   }
